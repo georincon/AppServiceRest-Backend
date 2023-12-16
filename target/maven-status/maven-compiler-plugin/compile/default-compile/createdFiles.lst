@@ -1,0 +1,6 @@
+com\example\backend\modeloDAO\PersonaDAO.class
+com\example\backend\ServicioRestApplication.class
+com\example\backend\controler\PersonaControler.class
+com\example\backend\modelo\Persona.class
+com\example\backend\service\PersonaService.class
+com\example\backend\interfaces\PersonaInterface.class
